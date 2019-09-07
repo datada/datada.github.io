@@ -3,7 +3,7 @@ layout: post
 title: Một số cách khắc phục tình trạng match rate thấp trên admob
 ---
 
-Khoảng vài tháng trở lại đây có một số bác bị tình trạng qc match rate thấp (từ 1% - 5%).  
+Khoảng vài tháng trở lại đây có một số bạn bị tình trạng qc match rate thấp (từ 1% - 5%).  
 Theo mình đoán thì nguyên nhân do google hạn chế phân phát cho các account mới hoặc account nghi ngờ gian lận.  
 Các developer nước ngoài cũng [bị rất nhiều](https://support.google.com/admob/threads?hl=en&thread_filter=(category:ad_implementation))  
 Mình xin chia sẻ 1 số cách khắc phục.  
@@ -15,8 +15,8 @@ Lưu ý những cách này **ko dễ thành công**, có thể **mất nhiều t
 *Mình tìm đc trong [video này](https://www.youtube.com/watch?v=wSTLfM5Dstw)*
 
 
-#### CÁCH 2: Mình đã chia sẻ từ trước, thấy có 2, 3 bác đã thành công.
-*Tiếng Anh nên các bác tự dịch nhé*  
+#### CÁCH 2: Mình đã chia sẻ từ trước, thấy có 2, 3 bạn đã thành công.
+*Tiếng Anh nên các bạn tự dịch nhé*  
 **Lưu ý:** Bước số 2 có thể spam nhiều để google nó để ý tới. Hậu quả ko chịu trách nhiệm (-.-)  
    > i got the solution for you guys, all you need to do
 1. you need to have verified account with verification pin and bank account, to get thought whitelist traffic quality
@@ -32,7 +32,8 @@ Try to spread your app in US or European Countries so that Ads limit can be remo
 Do not use your fresh account for those app at first, which are not published on Google Playstore.
 After one to two month, ads limited will be removed, when you will give traffic to app via Google or Google Playstore.
 After ads limit removing, you can use your that account for any app i.e that is published or not on Google Playstore.  
+
 Chi tiết hơn tại [đây](https://www.ecarepk.com/2019/05/admob-ads-limit-low-match-rate.html)
 
 
-Chúc các bác thành công (^^!)
+Chúc các bạn thành công (^^!)
