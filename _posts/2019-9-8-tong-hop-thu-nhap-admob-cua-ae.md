@@ -13,13 +13,13 @@ Dưới đây là thu nhập của một số ae chia sẻ trong group [Admob Ch
 ![an image alt text]({{ site.baseurl }} /images/47384211_762221064137992_725851607622746112_o.jpg "an image title")  
 
 
-@**Bình Nguyễn** *July 22, 2019*
-Không cần phải che  
+@**Bình Nguyễn** *July 22, 2019*  
+> Không cần phải che  
 
 ![an image alt text]({{ site.baseurl }} /images/67071798_971479653244016_4065456020502085632_n.jpg "an image title")  
 
 @**Trong Nguyen** *August 1, 2019*  
-Số đẹp. Vừa khít các bác ạ  
+> Số đẹp. Vừa khít các bác ạ  
 
 ![an image alt text]({{ site.baseurl }} /images/67381897_2333029166966227_2865243193639698432_n.jpg "an image title")  
 
