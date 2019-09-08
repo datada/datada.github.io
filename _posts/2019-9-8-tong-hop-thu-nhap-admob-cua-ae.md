@@ -3,7 +3,7 @@ layout: post
 title: Tổng hợp thu nhập admob của các ae trong group admob
 ---
 Bạn đang cần động lực để kiếm tiền từ admob ??  
-Bạn tò mò không biết viết mobile app có kiểm được nhiều tiền ko ??  
+Bạn tò mò không biết viết mobile app có kiếm được nhiều tiền ko ??  
 Dưới đây là thu nhập của một số ae chia sẻ trong group [Admob Chia Sẻ Hết Mình](https://www.facebook.com/groups/1409955539055567) ^.^
 
 @**Hoai Linh Pham**  *December 7, 2018*  
